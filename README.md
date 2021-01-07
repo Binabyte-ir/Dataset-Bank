@@ -1,4 +1,4 @@
-# [Binabyte](https://binabyte.ir/) Dataset Bank:
+# [Binabyte](https://binabyte.ir/) AI Dataset Bank:
 
 
 | Dataset | 
